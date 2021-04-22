@@ -1,0 +1,24 @@
+.colorRojo{
+    color: red;
+}
+
+.anchoImag{
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background: tomato;
+    padding: 50px;
+    border: 10px solid black;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+.imagenFondo{
+    background-image: url("food.jpg");
+}
+
+
